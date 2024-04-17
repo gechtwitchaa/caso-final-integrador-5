@@ -26,7 +26,7 @@ public class AnalisisGenomico {
         String cadenaADN = "ATGCTATGATGCGATGTAG";
         System.out.println("Número de genes en la cadena de ADN: " + contarGenes(cadenaADN));
 
-        int n = 5; 
+        int n = 5;
         System.out.println("Número de combinaciones genéticas para n=" + n + ": " + calcularCombinacionesGeneticas(n));
     }
 }
