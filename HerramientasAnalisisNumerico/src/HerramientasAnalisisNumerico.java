@@ -1,7 +1,6 @@
 public class HerramientasAnalisisNumerico {
 
     public static int calcularSumatoria(int n) {
-        // Caso base
         if (n == 0) {
             return 0;
         }
@@ -18,7 +17,6 @@ public class HerramientasAnalisisNumerico {
     }
 
     public static int calcularPotencia(int base, int exponente) {
-        // Caso base
         if (exponente == 0) {
             return 1;
         }

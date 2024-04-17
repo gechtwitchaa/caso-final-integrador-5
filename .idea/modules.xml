@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AnalisisGenomico/AnalisisGenomico.iml" filepath="$PROJECT_DIR$/AnalisisGenomico/AnalisisGenomico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GestionInfoCientifica/GestionInfoCientifica.iml" filepath="$PROJECT_DIR$/GestionInfoCientifica/GestionInfoCientifica.iml" />
       <module fileurl="file://$PROJECT_DIR$/HerramientasAnalisisNumerico/HerramientasAnalisisNumerico.iml" filepath="$PROJECT_DIR$/HerramientasAnalisisNumerico/HerramientasAnalisisNumerico.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/caso-final-integrador-5.iml" filepath="$PROJECT_DIR$/.idea/caso-final-integrador-5.iml" />
     </modules>
